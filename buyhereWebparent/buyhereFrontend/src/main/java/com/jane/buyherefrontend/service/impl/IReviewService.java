@@ -5,7 +5,7 @@
  * Description:
  * Version:
  */
-package com.jane.buyherefrontend.service;
+package com.jane.buyherefrontend.service.impl;
 
 import com.jane.buyherecommon.entity.Customer;
 import com.jane.buyherecommon.entity.Review;

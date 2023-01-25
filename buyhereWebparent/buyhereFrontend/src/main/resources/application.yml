@@ -5,6 +5,7 @@ server:
       enabled: true
       charset: UTF-8
       force: true
+    context-path: /Buyhere
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/buyheredb?serverTimezone=Europe/Dublin
