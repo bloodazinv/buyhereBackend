@@ -9,11 +9,9 @@ Database Layer: **Mysql**, **Amazon S3**, **Hibernate**
 
 IDE: **IntelliJ IDEA**
 
-## Features
+## Buyhere Admin - Backend Administration 
 
-### Buyhere Admin - Backend Administration 
-
-#### Role-based authorization
+### Role-based authorization
 **Spring Security** limits the authorization of different roles on the backend website, including:
  
   - Admin
@@ -25,7 +23,7 @@ IDE: **IntelliJ IDEA**
   <img src="https://www.linkpicture.com/q/backData.jpg" width="700px">
   <img src="https://www.linkpicture.com/q/backCreateuser.jpg" width="700px">
   
-#### Mail Service
+### Mail Service
 Buyhere builds the mail service with **Spring Mail**.
 
 Everytime there is a new user registeration or a new order, the website default mail will send confirmation email for specific users.
@@ -38,13 +36,13 @@ Website administrator can modify mail address and mail template.
 
 <img src="https://www.linkpicture.com/q/backMailTemplate.jpg" width="700px>
 
-#### Sales Report
+### Sales Report
 
 Website management team can easily check the sales situation with charts with **Google Chart API**
 
 <img src="https://www.linkpicture.com/q/backReport.jpg" width="700px">
   
-### Buyhere - Online Shopping Website
+## Buyhere - Online Shopping Website
   
 ### User Authentication 
 
