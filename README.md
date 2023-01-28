@@ -1,4 +1,4 @@
-# buyhereBackend
+# Buyhere
 Buyhere is an e-commerce website consisting of both the background part for website administrators and the frontend part for normal customers.
 
 ## Basics
@@ -34,7 +34,9 @@ Website administrator can modify mail address and mail template.
 
 <img src="https://www.linkpicture.com/q/backSetting.jpg" width="700px">
 
-<img src="https://www.linkpicture.com/q/backData.jpg" width="700px">
+<img src="https://www.linkpicture.com/q/backMail.jpg" width="700px">
+
+<img src="https://www.linkpicture.com/q/backMailTemplate.jpg" width="700px>
 
 #### Sales Report
 
@@ -54,9 +56,10 @@ Buyhere enables user sign in with email/password and Google account through **Sp
 
 User can skan availble products in different categories, view product detail, user rateing, and add item to shopping cart.
 
-<img src="https://www.linkpicture.com/q/frontLogin.jpg" width="700px">
-<img src="https://www.linkpicture.com/q/frontLogin.jpg" width="700px">
-<img src="https://www.linkpicture.com/q/frontLogin.jpg" width="700px">
+<img src="https://www.linkpicture.com/q/frontHome_1.jpg" width="700px">
+<img src="https://www.linkpicture.com/q/frontProductList_1.jpg" width="700px">
+<img src="https://www.linkpicture.com/q/frontProductdetaill_1.jpg" width="700px">
+<img src="https://www.linkpicture.com/q/frontCart_1.jpg" width="700px">
 
 ### Check Out
 
